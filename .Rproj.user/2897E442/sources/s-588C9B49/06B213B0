@@ -3,7 +3,7 @@
     "path": "~/Documents/Coursera_Datascience/Exploratory_Data_Analysis/w01/course_project/plot2.R",
     "project_path": "plot2.R",
     "type": "r_source",
-    "hash": "0",
+    "hash": "647423495",
     "contents": "",
     "dirty": false,
     "created": 1655755800919.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "18,1",
+        "cursorPosition": "25,12",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1655756208,
+    "lastKnownWriteTime": 1655756498,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1655756208,
+    "last_content_update": 1655756498542,
     "read_only": false,
     "read_only_alternatives": []
 }
