@@ -1,3 +1,8 @@
+## Additional information by the author
+* The "run_all.R" script regroups the other 4 in order to simplify execution. 
+* The data folder and data in general have been removed to make upload lighter but are added when executing any of the plot scripts
+
+
 ## Introduction
 
 This assignment uses data from
